@@ -27,7 +27,6 @@ function pickFood(index) {
 <template>
   <main>
     <h1 class="title">今日何食べる？</h1>
-    <!-- V-bindで動的にnameとemojiを動的にする -->
     <FoodCard
       :name="foods[pickedFoodIndex].name"
       :emoji="foods[pickedFoodIndex].emoji"
