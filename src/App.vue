@@ -13,7 +13,7 @@ const foods = ref([
   { name: '鍋系', emoji: '🍲' },
   { name: '居酒屋', emoji: '🍶' },
   { name: 'ファミレス', emoji: '🍴' },
-  { name: 'ラーメン', emoji: '🍜' },
+  { name: '豚骨ラーメン', emoji: '🐷🍜' },
   { name: 'ステーキ', emoji: '🍖' },
   { name: 'ケーキ', emoji: '🍰' }
 ])
