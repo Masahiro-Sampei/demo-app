@@ -15,7 +15,8 @@ const foods = ref([
   { name: 'ファミレス', emoji: '🍴' },
   { name: '煮干しラーメン', emoji: '🐟🍜' },
   { name: '背油ラーメン', emoji: '🐷🍜' },
-  { name: '味噌ラーメン', emoji: '🌸🍜' }
+  { name: '味噌ラーメン', emoji: '🌸🍜' },
+  { name: 'そば', emoji: '😊' }
 ])
 
 const pickedFoodIndex = ref(0)
